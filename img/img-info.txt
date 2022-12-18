@@ -1,0 +1,1 @@
+This file is used for all non-downloadble asset images. If an image is seperate from an asset and it should be apart of it then move it to the asset.
